@@ -1,6 +1,6 @@
 # NoxShadow_YT : Minecraft Server Installation Script
 
-### This script automates the installation and setup of a Minecraft server using PaperMC and BungeeCord. It also includes the option to download the ProtocolSupport plugin for versions of Minecraft greater than 1.8.
+### This script automates the installation and setup of a Minecraft server using PaperMC and BungeeCord. It also includes the option to download the ProtocolSupport plugin for versions of Minecraft greater than 1.8. Remember to comply with Mojiang's End User Agreement when using this.
 ## How to Use
 Clone this repository to your local machine.
 Open the script.sh file in a text editor.

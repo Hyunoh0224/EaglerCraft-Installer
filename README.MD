@@ -11,7 +11,7 @@ The version of Minecraft to download: Update the menu options and download links
 The required Java version: Update the script to check for the required Java version for the chosen Minecraft version.
 ## Additional plugins: Update the script to download and install any additional plugins you want to use.
 ## License
-Custom License for NoxShadow_YT's Minecraft Server Installation Script
+### Custom License for NoxShadow_YT's Minecraft Server Installation Script 
 This custom license applies to the NoxShadow_YT's Minecraft Server Installation Script and is based on the MIT License.
 Terms and Conditions
 You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the script, subject to the following conditions:
@@ -33,7 +33,7 @@ https://opensource.stackexchange.com/questions/6478/is-a-custom-license-enforcab
 https://www.amazon.com/gp/help/customer/display.html?nodeId=202074990
 https://fossa.com/blog/apply-license-open-source-software-project/
 https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/
-https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repositoryTerms of Service
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 ## Term Of Service
 By using this script, you agree to the following terms:
 The author is not responsible for any damage or loss of data caused by the use of this script.

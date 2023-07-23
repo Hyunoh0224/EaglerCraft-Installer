@@ -2,9 +2,9 @@
 ### This script automates the installation and setup of a Minecraft server using PaperMC and BungeeCord. It also includes the option to download the ProtocolSupport plugin for versions of Minecraft greater than 1.8.
 ## How to Use
 Clone this repository to your local machine.
-Open the minecraft-server-install.sh file in a text editor.
+Open the script.sh file in a text editor.
 Modify the script to include the desired version of Minecraft and any additional customizations.
-Save the file and run it in a terminal using the command ./minecraft-server-install.sh.
+Save the file and run it in a terminal using the command ./script.sh.
 ## Customization
 You can customize the script to suit your needs by modifying the following:
 The version of Minecraft to download: Update the menu options and download links in the script to include the desired version.

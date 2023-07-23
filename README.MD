@@ -21,6 +21,7 @@ bash script.sh
 chmod a+x firewall+portwarding.sh && echo Port Forwarding Script Made by NoxShadow YT!
 sudo apt install ufw && bash firewall+portfrward.sh && echo Remember to credit! # If you on Replit,
 # They already have ports config. Skip this part.
+```
 ## Customization
 You can customize the script to suit your needs by modifying the following:
 The version of Minecraft to download: Update the menu options and download links in the script to include the desired version.

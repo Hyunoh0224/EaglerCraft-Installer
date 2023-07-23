@@ -83,7 +83,7 @@ else
 
     # Download the ProtocolSupport plugin for versions greater than 1.8.
     if (( $(echo "$version_choice > 4" | bc -l) )); then
-        wget "https://example.com/protocolsupport-$minecraft_version.jar" -P ~/minecraft/proxy/plugins
+        wget "https://example.com/protocolsupport-$minecraft_version.jar" -P ~/minecraft/proxy/plugins #I am going to fix this in a second.
     fi
 
     # Use the following command to run both the BungeeCord and PaperMC servers:

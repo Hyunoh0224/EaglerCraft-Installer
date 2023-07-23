@@ -1,10 +1,20 @@
 # NoxShadow_YT : Minecraft Server Installation Script
+
 ### This script automates the installation and setup of a Minecraft server using PaperMC and BungeeCord. It also includes the option to download the ProtocolSupport plugin for versions of Minecraft greater than 1.8.
 ## How to Use
 Clone this repository to your local machine.
 Open the script.sh file in a text editor.
 Modify the script to include the desired version of Minecraft and any additional customizations.
 Save the file and run it in a terminal using the command ./script.sh.
+Example:
+```
+git clone https://github.com/NoxShadow-YT/EaglerCraft-Installer/
+cd EaglerCraft-Installer
+sudo apt install nano -assume-yes -fix-broken # If on Replit just enter Nano in console and it will prompt
+# you to add it to replit.nix.
+nano script.sh
+chmod a+x script.sh
+bash script.sh
 ## Customization
 You can customize the script to suit your needs by modifying the following:
 The version of Minecraft to download: Update the menu options and download links in the script to include the desired version.

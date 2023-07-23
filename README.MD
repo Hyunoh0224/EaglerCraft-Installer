@@ -19,7 +19,7 @@ bash script.sh
 ```
 # If you use Oracle Cloud or Google Cloud config the port forwarding too.
 chmod a+x firewall+portwarding.sh && echo Port Forwarding Script Made by NoxShadow YT!
-sudo apt install ufw && bash firewall+portfrward.sh && echo Remember to credit! # If you on Replit,
+sudo apt install ufw && bash firewall+portforward.sh && echo Remember to credit! # If you on Replit,
 # They already have ports config. Skip this part.
 ```
 ## Customization

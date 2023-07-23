@@ -15,6 +15,7 @@ sudo apt install nano -assume-yes -fix-broken # If on Replit just enter Nano in 
 nano script.sh
 chmod a+x script.sh
 bash script.sh
+```
 ## Customization
 You can customize the script to suit your needs by modifying the following:
 The version of Minecraft to download: Update the menu options and download links in the script to include the desired version.

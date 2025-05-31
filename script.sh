@@ -18,40 +18,12 @@ if [ -f ~/minecraft/paper/paper-1.17.1-301.jar ]; then
 else
     # Prompt the user to choose a version of Minecraft to download.
     echo "Choose a version of Minecraft to download:"
-    echo "1. Minecraft 1.5.2"
-    echo "2. Minecraft 1.6.4"
-    echo "3. Minecraft 1.7.10"
-    echo "4. Minecraft 1.8.9"
-    echo "5. Minecraft 1.9.4"
-    echo "6. Minecraft 1.10.2"
-    echo "7. Minecraft 1.11.2"
-    echo "8. Minecraft 1.12.2"
-    echo "9. Minecraft 1.13.2"
-    echo "10. Minecraft 1.14.4"
-    echo "11. Minecraft 1.15.2"
-    echo "12. Minecraft 1.16.5"
-    echo "13. Minecraft 1.17.1"
-    echo "14. Minecraft 1.18.1"
-    echo "15. Minecraft 1.19.1"
+    
     echo "16. Minecraft 1.20.1"
     read -p "Enter your choice (1-16): " version_choice
 
     case "$version_choice" in
-        1 ) minecraft_version="1.5.2";;
-        2 ) minecraft_version="1.6.4";;
-        3 ) minecraft_version="1.7.10";;
-        4 ) minecraft_version="1.8.9";;
-        5 ) minecraft_version="1.9.4";;
-        6 ) minecraft_version="1.10.2";;
-        7 ) minecraft_version="1.11.2";;
-        8 ) minecraft_version="1.12.2";;
-        9 ) minecraft_version="1.13.2";;
-        10 ) minecraft_version="1.14.4";;
-        11 ) minecraft_version="1.15.2";;
-        12 ) minecraft_version="1.16.5";;
-        13 ) minecraft_version="1.17.1";;
-        14 ) minecraft_version="1.18.1";;
-        15 ) minecraft_version="1.19.1";;
+
         16 ) minecraft_version="1.20.1";;
         * ) echo "Invalid choice. Exiting..."; exit;;
     esac
